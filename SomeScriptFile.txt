@@ -1,2 +1,3 @@
 
 random sample text
+this is file in subdir
